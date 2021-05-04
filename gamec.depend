@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1620159877 source:d:\gamec\background.c
+	"background.h"
+
+1620159962 d:\gamec\background.h
+	"common.h"
+
+1620159962 d:\gamec\common.h
+	"stdlib.h"
+	"stdio.h"
+	"string.h"
+	"math.h"
+	"ctype.h"
+	<SDL.h>
+	"defs.h"
+	"structs.h"
+
+1620160109 d:\gamec\defs.h
+
+1620160331 d:\gamec\structs.h
+
+1620159877 source:d:\gamec\draw.c
+	"draw.h"
+
+1620160241 d:\gamec\draw.h
+	"common.h"
+	<SDL_image.h>
+
+1561870398 d:\sdl2_image-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565126833 source:d:\gamec\highscores.c
+	"highscores.h"
+
+1565126833 d:\gamec\highscores.h
+	"common.h"
+
+1620159877 source:d:\gamec\init.c
+	"init.h"
+
+1620160331 d:\gamec\init.h
+	"common.h"
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1540998018 d:\sdl2_mixer-2.0.4\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1620160241 source:d:\gamec\input.c
+	"input.h"
+
+1620160241 d:\gamec\input.h
+	"common.h"
+
+1620160241 source:d:\gamec\main.c
+	"main.h"
+
+1620160241 d:\gamec\main.h
+	"common.h"
+
+1620159877 source:d:\gamec\sound.c
+	"sound.h"
+
+1620160241 d:\gamec\sound.h
+	"common.h"
+	<SDL_mixer.h>
+
+1620159877 source:d:\gamec\stage.c
+	"stage.h"
+
+1620160241 d:\gamec\stage.h
+	"common.h"
+
+1620159877 source:d:\gamec\text.c
+	"text.h"
+
+1620160331 d:\gamec\text.h
+	"common.h"
+
+1620159962 source:d:\gamec\title.c
+	"title.h"
+
+1620160331 d:\gamec\title.h
+	"common.h"
+
+1620159962 source:d:\gamec\util.c
+	"util.h"
+
+1620160331 d:\gamec\util.h
+	"common.h"
+
